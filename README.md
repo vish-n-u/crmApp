@@ -15,9 +15,6 @@ More details around this can be found [here](https://docs.google.com/document/d/
 * Understanding of Node.js
 * Understanding of Async Await
 * Mongo DB locally installed and running
-Tech
-Node.js
-Mongodb
 
 # Tech
 ***
