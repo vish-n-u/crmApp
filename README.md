@@ -8,7 +8,7 @@ This code base contains logic/structure for creating the Restful APIs for the CR
 * Customer Activites
 *  Engineer's activities
 * Adming activities
-
+More details around this can be found [here](https://docs.google.com/document/d/1D7zL2m2RzLKDbffHKtJHOnYd-bfN2ENcXppfOO_BNzQ/edit?usp=sharing)
 
 # Prerequisite
 * Understanding of Node.js
