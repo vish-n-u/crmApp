@@ -8,7 +8,7 @@ module.exports = (app) => {
     ticketController.createTicket
   );
   app.get(
-    "/crm/api/v1/users/ticket/findall",
+    "/crm/api/v1/users/ticket",
     [middleware.verifyToken.verifyJWT, middleware.verifyToken.isAdmin],
     ticketController.getAllTickets
   );
@@ -22,7 +22,7 @@ module.exports = (app) => {
     ticketController.getTicketforCustomer
   );
   app.post(
-    "/crm/api/v1/users/engineertickets/assigned",
+    "/crm/api/v1/users/engineertickets",
     [
       middleware.verifyToken.verifyJWT,
       middleware.verifyTicket.isValidEngineerOrAdmin,
