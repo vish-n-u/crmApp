@@ -1,4 +1,4 @@
-# crmApp backend APP
+# crm backend APP
 
 Learning the development of RESTful APIs for backend
 This code base contains logic/structure for creating the Restful APIs for the CRM app
