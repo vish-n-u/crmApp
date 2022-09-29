@@ -12,15 +12,16 @@ New Users are allowed to register,existing users can login / update their userDe
 
 # Prerequisite
 *Understanding of Node.js
-Understanding of Async Await
-Mongo DB locally installed and running
+*Understanding of Async Await
+*Mongo DB locally installed and running
 Tech
 Node.js
 Mongodb*
 
 # Tech
+***
 *Node.js
-Mongodb*
+* Mongodb
 
 # Development
 Want to improve? Great! Make the changes and raise a PR. Reach out to me over vishnuna26@gmail.com
