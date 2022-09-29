@@ -17,7 +17,7 @@ More details around this can be found [here](https://docs.google.com/document/d/
 * Mongo DB locally installed and running
 Tech
 Node.js
-Mongodb*
+Mongodb
 
 # Tech
 ***
