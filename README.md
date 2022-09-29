@@ -24,5 +24,8 @@ Mongodb
 * Node.js
 * Mongodb
 
+# API of the app
+To have a look at the apps api's click [here](https://docs.google.com/document/d/1odpC5aM7yjXC0jPS32Uj78rXMApW4Fu3Lyt8ECmGksQ/edit?usp=sharing)
+
 # Development
 Want to improve? Great! Make the changes and raise a PR. Reach out to me over vishnuna26@gmail.com
