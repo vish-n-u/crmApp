@@ -1,10 +1,26 @@
-# crmApp is a new Project made on nodejs using express and MongoDB.
-New Users are allowed to register,existing users can login / update their userDetails based on their authorization/role.
-Its main features being providing authentication and authorization to users and allowing them to file new complaints as well as keeping track of the existing ones.
-A notification will be recieved after a Ticket is created/updated followed by an email sometime later.
+# crmApp backend APP
 
-// Assignment:-
-Q1. assigning ticket to least busy engineer :- constants has a function to solve this which is called in tickets.controller
-Q2 . Customer can update their name but not assign new engineer for ticket but if they provide an engineer that is already assigned to them , then there shouldnt 
-be any 400 error :- ticket.middleware
-Q3 . 
+Learning the development of RESTful APIs for backend
+This code base contains logic/structure for creating the Restful APIs for the CRM app
+
+# Features
+*User Registration and User Login
+Customer Activites
+Engineer's activities
+Adming activities
+New Users are allowed to register,existing users can login / update their userDetails based on their authorization/role.*
+
+# Prerequisite
+*Understanding of Node.js
+Understanding of Async Await
+Mongo DB locally installed and running
+Tech
+Node.js
+Mongodb*
+
+# Tech
+*Node.js
+Mongodb*
+
+# Development
+Want to improve? Great! Make the changes and raise a PR. Reach out to me over vishnuna26@gmail.com
