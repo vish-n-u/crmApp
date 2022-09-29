@@ -19,7 +19,7 @@ module.exports = (app) => {
     userController.findOneWithId
   );
   app.put(
-    "/crm/api/v1/users/update/:id",
+    "/crm/api/v1/users/:id",
     [
       userAuthentication.verifyToken.verifyJWT,
       userAuthentication.verifyToken.isValidUserId,
